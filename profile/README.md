@@ -47,4 +47,4 @@ Browse our repositories for:
 ---
 
 **Want to help or have feedback?**  
-Open an issue or join us on Discord — we love collaborating with the community!
+Open a ticket in the Discord — we love collaborating with the community!
